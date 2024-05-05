@@ -1,0 +1,192 @@
+
+body {
+    margin: 0;
+    font-family: Willow;
+
+    background-image: image-set("https://cdn.pixabay.com/video/2021/02/02/63885-508273140_tiny.jpg");
+    background-size: stretch;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+
+  }
+header {
+    height: 65px;
+    background-color:indigo;
+    color: red;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 50px;
+    background-size: stretch;
+    background-position: center;
+  
+
+  }
+  .box2{
+    width: 400px;
+  border: 5px solid whitesmoke;
+  color: whitesmoke;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+
+}
+.box3{
+  width: 80px;
+  height: 80px;
+
+color: whitesmoke;
+padding: 10px;
+align-items: stretch;
+ }
+ .box4{
+  width: 80px;
+  height: 80px;
+
+color: whitesmoke;
+padding: 10px;
+align-items: stretch;
+text-align: center;
+ }
+ .box5{
+  width: 80px;
+  height: 80px;
+
+color: whitesmoke;
+padding: 10px;
+align-items: stretch;
+text-align: center;
+ }
+ .contenedor{
+  width: 100px;
+  height: 35px;
+  background-color: rgb(150, 130, 238);
+
+color: whitesmoke;
+ }
+ .contacto{
+
+  background-color: rgb(122, 43, 226);
+ }
+
+p{
+  margin: 0;
+  font-family: willow;
+
+  height: 20px;
+  color: black;
+  font-family: Arial;
+  color: black;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 50px;
+    background-size: stretch;
+    background-position: center;
+  }
+
+   .redonda{
+    float: left;
+     border-radius: 60%;
+   }
+  
+
+
+.container{
+  font-size: 20px;
+ padding: 10px 20px;
+  color: black;
+  font-family: arial;
+  align-items: center;
+  text-align: center;
+}
+.box{
+  width: 400px;
+  height: 300px;
+  border: 5px solid black;
+  color: whitesmoke;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  background-image: url("c:\Users\Usuario\Desktop\imagen\mi foto2.jpg");
+  background-size: stretch;
+  background-position: center;
+  background-size: 1%;
+}
+.box{
+  width: 100px;
+  height: auto;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+a{
+  height: 15px;
+  color:violet;
+  font-family: 'Willow', Arial, Helvetica, sans-serif;
+
+  color: red;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 5px;
+    background-size: stretch;
+    background-position: center;
+}
+footer{
+  font-size: 20px;
+  height: 65px;
+  background-color:indigo;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+
+}
+h1{
+    color:antiquewhite;
+    filter: drop-shadow(2px 2px 2px #673b51);
+}
+h2{
+    color: black;
+    filter: drop-shadow(8px 8px 4px #433B67);
+}
+hr{
+    color:red
+  }
+  body{
+    display: block;
+  }
+  *{
+    border: radius 1px;
+    margin:2px;
+    
+  }
+  .row{
+    height:135vh;
+  }
+  
+  
+  
+  #MyProfilePhoto{
+      width: 20%;
+      margin:5%;
+        border-radius: 50%;
+        overflow: hidden;
+        border: 4px solid azure;
+    display: inline-block;
+        filter: drop-shadow(8px 8px 4px #433B67);
+    }
+   #Title{
+     display: inline-block;
+   }
+    .myphoto{
+      width: 100%;
+      height: 100%;
+      object-fit:cover;
+    }
